@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhijeetMishra101
+- 👋 Hi, I’m Abhijeet Mishra
 - 👀 I’m interested in Mobile/frontend development
 - 🌱 I’m currently learning React Native & React JS
 - 💞️ I’m looking to collaborate on any exciting project built using latest technologies
